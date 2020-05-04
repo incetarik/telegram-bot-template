@@ -1,0 +1,31 @@
+{
+  "name": "telegram-bot-template",
+  "version": "1.0.0",
+  "description": "Telegram Bot template using telegram-bot-framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incetarik/telegram-bot-template"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "template"
+  ],
+  "author": "Tarık İnce <incetarik@hotmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/incetarik/telegram-bot-template/issues"
+  },
+  "homepage": "https://github.com/incetarik/telegram-bot-template#readme",
+  "dependencies": {
+    "telegram-bot-framework": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "typescript": "latest"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "downlevelIteration": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "rootDir": "src",
+    "sourceMap": true,
+    "strict": false,
+    "lib": ["ES2015"],
+    "watch": true
+  },
+  "exclude": [
+    "node_modules",
+    "test",
+    "tests",
+    "__test__",
+    "__tests__"
+  ]
+}
